@@ -1,17 +1,12 @@
-# mobile
+FAMILY FLOW 
 
-A new Flutter project.
+Это приложение для общей бытовой организации: задачи, покупки, счета, расписание и повторяющиеся дела дома для семьи.
+От простой напоминалки оно отличается тем, что не просто напоминает, а распределяет дела, синхронизирует список между людьми и помогает вести быт вместе, а не поодиночке.
 
-## Getting Started
+https://www.figma.com/design/1ctDjRuPE099pFHIkUkw8Z/Family-flow?node-id=1-2&t=H6oDhUP6eTW1ZmW1-1
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Технологии и стек
+* Язык: Dart
+* Фреймворк: Flutter
